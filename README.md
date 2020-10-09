@@ -13,4 +13,4 @@ A little bit about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Feel free to browse my repos!
+Feel free to browse my repos! You will find projects in 🇺🇸 English and 🇧🇷 Portuguese.
