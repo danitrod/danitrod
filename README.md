@@ -8,7 +8,7 @@
 </a>
 <br />
 
-### I am Daniel Rodrigues, a Computer Science student currently working as a Developer Advocate intern at IBM.
+#### I am Daniel Rodrigues, a Computer Science student currently working as a Developer Advocate intern at IBM.
 
 A little bit about me:
 
