@@ -16,7 +16,7 @@
 A little bit about me:
 
 - Doing research on Deep Learning - NLP at my university
-- I 🧡 developing eficient and compact software, from back-end to front-end
+- I 🧡 developing efficient and compact software, from back-end to front-end
 - Working with TS/Node, React & Python
 - Learning Rust 🦀
 - Working on [Maratona Behind the Code](https://maratona.dev)
