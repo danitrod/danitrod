@@ -22,6 +22,6 @@ A little bit about me:
 - Working on [Maratona Behind the Code](https://maratona.dev)
 - Creating tuts on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrod&layout=compact&hide=matlab,css,swift,html,jupyter%20notebook&langs_count=8](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrod&layout=compact&hide=matlab,css,swift,html,jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to browse my repos! You will find projects in 🇺🇸 English and 🇧🇷 Portuguese.
