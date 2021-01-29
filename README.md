@@ -20,7 +20,7 @@ A little bit about me:
 - Using Python for AI and some scripts
 - Learning Rust 🦀
 - Working on [Maratona Behind the Code](https://maratona.dev)
-- Creating tuts on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA)
+- Creating some content on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrod&layout=compact&hide=matlab,css,swift,html,jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
