@@ -15,9 +15,9 @@
 
 A little bit about me:
 
+- Working with Node.js on the back-end, React on the front-end, React Native for mobile
 - Doing research on Deep Learning - NLP at my university
-- I 🧡 developing efficient and compact software, from back-end to front-end
-- Working with TS/Node, React & Python
+- Using Python for AI and some scripts
 - Learning Rust 🦀
 - Working on [Maratona Behind the Code](https://maratona.dev)
 - Creating tuts on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA)
