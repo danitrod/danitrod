@@ -1,13 +1,13 @@
 ## Hey, good to see you here!
 
 <a href="https://www.linkedin.com/in/danitrod/">
-  <img align="left" alt="Danitrod's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+  <img align="left" alt="Danitrod's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/tabler-icons@latest/icons/brand-linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA">
-  <img align="left" alt="Danitrod's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/youtube.svg" />
+  <img align="left" alt="Danitrod's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/tabler-icons@latest/icons/brand-youtube.svg" />
 </a>
 <a href="https://medium.com/@danitrod">
-  <img align="left" alt="Danitrod's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" />
+  <img align="left" alt="Danitrod's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/tabler-icons@latest/icons/brand-medium.svg" />
 </a>
 <br />
 
