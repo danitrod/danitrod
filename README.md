@@ -1,7 +1,7 @@
 ## Hey, good to see you here!
   
 <a href="https://www.linkedin.com/in/danitrod/">
-  <img align="left" alt="Danitrod's LinkdeIn" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" />
+  <img align="left" alt="Danitrod's LinkedIn" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" />
 </a>
 <a href="https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA">
   <img align="left" alt="Danitrod's YouTube" src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" />
@@ -11,13 +11,13 @@
 </a>
 <br />
 
-#### I am Daniel Rodrigues, a Computer Science student currently working as a Developer Advocate at IBM.
+#### I am Daniel Rodrigues, a last semester Computer Science student, and Developer Advocate at IBM.
 
 A little bit about me:
 
 - Currently working on application modernization with Cloud Native practices
 - Doing academic research on Deep Learning (NLP) and Parallel Programming
-- Becoming more and more rustacean 🦀
+- Rustacean 🦀
 - Working on [Maratona Behind the Code](https://maratona.dev)
 - Creating some content on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA) (Portuguese)
 
