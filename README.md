@@ -17,7 +17,6 @@ A little bit about me:
 
 - Currently working on application modernization with Cloud Native practices
 - Doing academic research on Deep Learning (NLP) and Parallel Programming
-- Rustacean 🦀
 - Working on [Maratona Behind the Code](https://maratona.dev)
 - Creating some content on [YouTube](https://www.youtube.com/channel/UCJx95nOeX4Ls8Yaqor3v7qA) (Portuguese)
 
